@@ -1,0 +1,30 @@
+{
+  "name": "octothorpe",
+  "version": "1.0.0",
+  "description": "Creates an octothorpe/hashtag with values provided",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/octothorpe.git"
+  },
+  "keywords": [
+    "Octothorpe",
+    "Hashtag",
+    "Hash",
+    "Pound",
+    "Pound",
+    "Sign",
+    "#",
+    "tic-tac-toe",
+    "grid"
+  ],
+  "author": "Lewis Edward Moten III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewismoten/octothorpe/issues"
+  },
+  "homepage": "https://github.com/lewismoten/octothorpe#readme"
+}
