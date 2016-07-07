@@ -12,13 +12,17 @@
   },
   "keywords": [
     "Octothorpe",
+    "Octothorpes",
+    "Octothorp",
+    "Octothorn",
+    "Pound Sign",
+    "Number Sign",
     "Hashtag",
     "Hash",
     "Pound",
-    "Pound",
-    "Sign",
     "#",
     "tic-tac-toe",
+    "naughts and crosses",
     "grid"
   ],
   "author": "Lewis Edward Moten III",
@@ -26,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/lewismoten/octothorpe/issues"
   },
-  "homepage": "https://github.com/lewismoten/octothorpe#readme"
+  "homepage": "https://github.com/lewismoten/octothorpe#readme",
+  "dependencies": {
+    "indexed-template": "^1.0.0"
+  }
 }
