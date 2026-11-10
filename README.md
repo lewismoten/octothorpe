@@ -1,3 +1,5 @@
+![octothorpe: A hash sign # drawn as a tic-tac-toe grid with X and O ASCII](docs/images/social-preview.png)
+
 # Octothorpe
 
 Creates octothorpes (hash tag / pound sign #) with values in each space.
